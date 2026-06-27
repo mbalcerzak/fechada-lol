@@ -19,16 +19,21 @@ export default function YearCalendar({ entries, year }) {
       </p>
 
       <div className="calendar-grid">
-        {MONTH_NAMES.map((name, monthIndex) => (
-          <MonthGrid
-            key={name}
-            monthName={name}
-            monthIndex={monthIndex}
-            year={year}
-            entryMap={entryMap}
-            weekdayLabels={WEEKDAY_LABELS}
-          />
-        ))}
+        {Array.from({ length: 12 }).map((_, i) => {
+          const monthIndex = (5 + i) % 12
+          const monthYear = year + Math.floor((5 + i) / 12)
+          const name = MONTH_NAMES[monthIndex]
+          return (
+            <MonthGrid
+              key={`${monthYear}-${monthIndex}`}
+              monthName={name}
+              monthIndex={monthIndex}
+              year={monthYear}
+              entryMap={entryMap}
+              weekdayLabels={WEEKDAY_LABELS}
+            />
+          )
+        })}
       </div>
     </section>
   )
