@@ -19,10 +19,10 @@ export default function Hero() {
       </div>
 
       <div className="hero__content">
-        <p className="hero__eyebrow">fechada.lol</p>
+        {/* <p className="hero__eyebrow">fechada.lol</p> */}
         <h1 className="hero__question">¿Está lista la fachada?</h1>
         <p className={`hero__answer ${showAnswer ? 'hero__answer--visible' : ''}`}>
-          no
+          NO
         </p>
       </div>
 
