@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Fredoka', system-ui, sans-serif;
+  background: #fff5f8;
+  color: #2d1b4e;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}

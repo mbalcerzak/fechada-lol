@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2026-06-06",
+    "special_event": "started",
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 36
+  },
+  {
+    "date": "2026-06-09",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "cloudy",
+    "degrees": 28
+  },
+  {
+    "date": "2026-06-10",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 32
+  },
+  {
+    "date": "2026-06-11",
+    "special_event": null,
+    "worked": "no",
+    "weather": "rainy",
+    "degrees": 22
+  },
+  {
+    "date": "2026-06-12",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 34
+  },
+  {
+    "date": "2026-06-16",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 35
+  },
+  {
+    "date": "2026-06-17",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "partly cloudy",
+    "degrees": 30
+  },
+  {
+    "date": "2026-06-18",
+    "special_event": null,
+    "worked": "no",
+    "weather": "rainy",
+    "degrees": 19
+  },
+  {
+    "date": "2026-06-19",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 33
+  },
+  {
+    "date": "2026-06-23",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 37
+  },
+  {
+    "date": "2026-06-24",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 38
+  },
+  {
+    "date": "2026-06-25",
+    "special_event": null,
+    "worked": "no",
+    "weather": "windy",
+    "degrees": 26
+  },
+  {
+    "date": "2026-06-26",
+    "special_event": null,
+    "worked": "yes",
+    "weather": "sunny",
+    "degrees": 36
+  }
+]
