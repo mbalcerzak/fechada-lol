@@ -5,7 +5,7 @@ export default function Hero() {
   const [showAnswer, setShowAnswer] = useState(false)
 
   useEffect(() => {
-    const timer = setTimeout(() => setShowAnswer(true), 2000)
+    const timer = setTimeout(() => setShowAnswer(true), 500)
     return () => clearTimeout(timer)
   }, [])
 
