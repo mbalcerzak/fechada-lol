@@ -44,7 +44,7 @@
   {
     "date": "2026-06-17",
     "special_event": null,
-    "worked": "yes",
+    "worked": "no",
     "weather": "partly cloudy",
     "degrees": 30
   },
@@ -58,21 +58,21 @@
   {
     "date": "2026-06-19",
     "special_event": null,
-    "worked": "yes",
+    "worked": "no",
     "weather": "sunny",
     "degrees": 33
   },
   {
     "date": "2026-06-23",
     "special_event": null,
-    "worked": "yes",
+    "worked": "no",
     "weather": "sunny",
     "degrees": 37
   },
   {
     "date": "2026-06-24",
     "special_event": null,
-    "worked": "yes",
+    "worked": "no",
     "weather": "sunny",
     "degrees": 38
   },
@@ -86,7 +86,7 @@
   {
     "date": "2026-06-26",
     "special_event": null,
-    "worked": "yes",
+    "worked": "no",
     "weather": "sunny",
     "degrees": 36
   }
